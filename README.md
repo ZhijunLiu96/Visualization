@@ -1,6 +1,6 @@
 # My Toolboxes for Visualization
 
-## Bokeh (Version 1.0 | updating)
+## Bokeh (Updating)
 ### Data source: 
 A json object form: http://ncov.nosensor.com:8080/api/ and find it here:[api.json](https://github.com/ZhijunLiu96/Visualization/blob/master/data/api.json)
 
@@ -35,5 +35,5 @@ time = '2020-02-12'
 
 ### ipynb file [matplotlib_example.ipynb](https://github.com/ZhijunLiu96/Visualization/blob/master/matplotlib/matplotlib_example.ipynb)
 
-### How Data visualization helps with decision making? [example_report.pdf](https://github.com/ZhijunLiu96/Visualization/blob/master/matplotlib/example_report.pdf)
+### How data visualization helps with decision making? [example_report.pdf](https://github.com/ZhijunLiu96/Visualization/blob/master/matplotlib/example_report.pdf)
 
