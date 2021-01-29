@@ -1,4 +1,9 @@
 # My Toolbox for Visualization
+- [Color Board](https://www.w3schools.com/colors/colors_picker.asp)
+- [Style Sheet Reference](https://matplotlib.org/3.1.1/gallery/style_sheets/style_sheets_reference.html) **plt.style.use**
+
+
+
 
 # Bokeh (Updating)
 ### Data source: 
